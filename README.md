@@ -17,7 +17,9 @@ pip install langdetect unidecode nltk
 The function processes text in three steps:
 
 Language Detection → Uses langdetect to identify the language
+
 Transliteration → Converts non-ASCII characters using unidecode
+
 Tokenization → Splits text into tokens using NLTK
 
 ## 📌 Output Example
