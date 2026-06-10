@@ -25,8 +25,11 @@ Tokenization → Splits text into tokens using NLTK
 ## 📌 Output Example
 
 Original Text: Привет, как дела?
+
 Language: ru
+
 Transliterated Text: Privet, kak dela?
+
 Tokens: ['Privet', ',', 'kak', 'dela', '?']
 
 ## ⚠️ Notes
